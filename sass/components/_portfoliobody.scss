@@ -1,0 +1,67 @@
+@import "../mixins/mixin";
+@import "../variables/variable";
+#shakhawat{
+    .body{
+        .active{
+            .elements{
+                .portfolio_box{
+                    margin-top: 50px;
+                    display: flex;
+                    justify-content: space-between;
+                    .port{
+                        width: 30%;
+                        height: 200px;
+                        position: relative;
+                        overflow: hidden;
+                        img{
+                            width: 100%;
+                            height: 100%;
+                            transition: .4s;
+                        }
+                        .port_txt{
+                            text-align: center;
+                            background-color: #e8e8ed;
+                            padding: 10px 0;
+                            border-top: 2px solid $primary_color;
+                            width: 100%;
+                            position: absolute;
+                            bottom: -50%;
+                            left: 0%;
+                            transition: .4s;
+                            h4{
+                                text-transform: uppercase;
+                                margin: 0;
+                                a{
+                                    @include headig ($ff: $primary_font , $fs: 16px , $fw: 500 , $clr: $brand_color );
+                                }
+                            }
+                            p{
+                                @include  paragraph ($ff: $secondery_font , $fs: 18px , $fw: 400 , $clr: $secondery_color );
+                                text-transform: capitalize;
+                            }
+                        }
+                        &:hover{
+                            img{
+                                filter: contrast(30%);
+
+                            }
+                            .port_txt{
+                                bottom: 0;
+                            }
+                        }
+                    }
+                }
+                .statement_box{
+                    p{
+                        @include paragraph ($ff: $secondery_font , $fs: 18px , $fw: 400 , $clr: $secondery_color );
+                        text-align: justify;
+                        span{
+                            display: block;
+                            margin-top: 40px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

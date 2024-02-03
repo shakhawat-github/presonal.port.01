@@ -1,0 +1,1419 @@
+@media (max-width: 575.98px) { 
+    /* ======================== common part extra small device responsive start ============================ */
+    a{
+        text-decoration: none;
+    }
+    body #shakhawat {
+        display: block;
+        position: none;
+    }
+    body #shakhawat nav {
+        width: 100%;
+        height: auto;
+        padding: 0 10px;
+        position: none;
+        box-shadow: rgba(33, 35, 38, 0.1) 10px 0px 10px -10px;
+        display: flex;
+        justify-content: space-between;
+    }
+    #shakhawat nav .navbar-brand {
+        margin: 0;
+        padding: 0;
+        width: 45%;
+        position: unset;
+        transform: translate(0);
+    }
+    #shakhawat nav .navbar-brand svg text {
+        font-size: 200px;
+    }
+    #shakhawat nav button {
+        font-size: 12px;
+        --bs-navbar-toggler-focus-width: 0;
+    }
+    body #shakhawat .body {
+        width: 100%;
+        height: auto;
+        padding: 10px;
+        position: unset;
+    }
+    #shakhawat nav .offcanvas {
+        margin: 0px;
+        width: 40%;
+    }
+    #shakhawat nav .offcanvas .profile {
+        width: 60px;
+        height: 60px;
+        margin: 0 auto;
+        border: 2px solid #55527C;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px auto 0;
+    }
+    #shakhawat nav .offcanvas .title {
+        width: 80%;
+        margin: 15% auto 0;
+        font-size: 8px;
+        padding: 10px 0;
+    }
+    #shakhawat nav .offcanvas .title:hover {
+        font-weight: 400;
+        letter-spacing: .5px;
+    }
+    #shakhawat nav .offcanvas .title::after {
+        top: 100%;
+        left: -18%;
+    }
+    #shakhawat nav .offcanvas .pages {
+        height: auto;
+    }
+    #shakhawat nav .offcanvas .pages button {
+        font-size: 10px;
+    }
+    #shakhawat nav .offcanvas .pages .active {
+        font-weight: 600;
+    }
+    #shakhawat nav .offcanvas .social {
+        justify-content: space-around;
+    }
+    #shakhawat nav .offcanvas .social li a {
+        position: relative;
+        width: 30px;
+        height: 30px;
+        margin: 0;
+    }
+    #shakhawat nav .offcanvas .social li a .fab {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 10px;
+    }
+    #shakhawat nav .navbar-brand svg {
+        width: 100%;
+    }
+    #shakhawat nav .offcanvas .copyright {
+        margin-top: 25px;
+    }
+    #shakhawat nav .offcanvas .copyright p {
+        font-size: 10px;
+        letter-spacing: 0px;
+    }
+        body #shakhawat .body .tab-content .active .head {
+        margin: 0px;
+    }
+    body #shakhawat .body .tab-content .active .head h2 {
+        font-size: 30px;
+        font-weight: 500;
+        letter-spacing: 10px;
+    }
+    body #shakhawat .body .tab-content .active .head h2 span {
+        font-size: 20px;
+        letter-spacing: 3px;
+    }
+    body #shakhawat .body .tab-content .active .elements .srttlep {
+        font-size: 10px;
+    }
+    body #shakhawat .body .tab-content .active .elements h3 {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    /* ======================== common part extra small device responsive ended ============================ */
+    /* ======================== home page extra small device responsive start ============================ */
+    body #shakhawat .body .tab-content{
+        padding: 15px 0;
+    }
+    body #shakhawat .body .tab-content .tab-pane .heading {
+        justify-content: space-between;
+    }
+    body #shakhawat .body .tab-content .tab-pane .heading .txt {
+        width: 65%;
+    }
+    #shakhawat .body .tab-content .active .heading .txt h1 {
+        font-size: 20px;
+        font-weight: 600;
+        margin: 0;
+    }
+    #shakhawat .body .tab-content .active .heading .txt h2 {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    #shakhawat .body .tab-content .active .heading .txt p {
+        font-size: 10px;
+        line-height: 13px;
+        margin: 15px 0 0;
+    }
+    #shakhawat .body .tab-content .active .heading .txt p a {
+        font-size: 12px;
+    }
+    body #shakhawat .body .tab-content .tab-pane .heading .img{
+        width: 35%;
+    }
+    body #shakhawat .body .tab-content .tab-pane .heading .img svg{
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .heading .img img {
+        width: 100%;
+        position: absolute;
+        left: 5%;
+        top: 4%;
+    }
+    #shakhawat .body .tab-content .active .heading .txt .downl_cv {
+        margin-top: 20%;
+    }
+    #shakhawat .body .tab-content .active .heading .txt .downl_cv button {
+        padding: 5px 10px;
+        width: 130px;
+        font-size: 10px;
+    }
+    #shakhawat .body .tab-content .active .heading .txt .downl_cv button:hover {
+        letter-spacing: 1.5px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom {
+        margin: 35px 0 0;
+    }
+    #shakhawat .body .tab-content .active .body_bottom p {
+        font-size: 10px;
+        letter-spacing: 1.5px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom h3 {
+        font-size: 15px;
+        font-weight: 400;
+        letter-spacing: 1.5px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data {
+        padding: 15px 10px 10px !important;
+        border-top: 1.5px solid #621D3C;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data:hover {
+        border-top: 1.5px solid #A5A6FF;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data {
+        padding: 0 5px;
+        gap: 5px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name{
+        gap: 5px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .icn i {
+        padding: 5px;
+        border-radius: 5px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .nam p {
+        font-size: 10px;
+        letter-spacing: 0;
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data ul {
+        padding: 0 0 0 5%;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data ul li a {
+        gap: 5px;
+        font-size: 10px;
+    }
+    #shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data::after {
+        width: 1.5px;
+        right: -5%;
+    }
+    /* ======================== home page extra small device responsive ended ============================ */
+    /* ======================== about page extra small device responsive start ============================ */
+    #shakhawat .body .tab-content .active .about_txt {
+        padding: 25px 0;
+        display: block;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt .srttlep {
+        font-size: 10px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h3 {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h4 {
+        font-size: 10px;
+        font-weight: 400;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h4 .animate {
+        left: 14%;
+    }
+    @keyframes scrolltitle {
+        from{
+            top: 110%;
+            left: 14%;
+        }
+        to{
+            top: -400%;
+            left: 14%;
+        }
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p {
+        font-size: 12px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p .experience {
+        font-size: 12px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p .desc_txt_btm {
+        margin-top: 13px;
+    }
+    body #shakhawat .body .tab-content .active .elements {
+        padding: 0 0 35px 0;
+    }
+    #shakhawat .body .tab-content .active .elements .exp_box {
+        gap: 10px;
+        display: flex;
+    }
+    #shakhawat .body .tab-content .active .elements .exp_box .experience {
+        padding: 20px 10px;
+        width: 120px;
+    }
+    #shakhawat .body .tab-content .active .elements .exp_box .experience h4 {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    #shakhawat .body .tab-content .active .elements .exp_box .experience p {
+        margin: 0;
+        font-size: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .exp_box .experience::after {
+        width: 300%;
+        left: -206%;
+    }
+    #shakhawat .body .tab-content .active .elements .skillbar-wrapper {
+        padding: 15px 10px;
+        border-radius: 10px;
+        gap: 20px;
+    }
+    #shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem h4 {
+        font-size: 10px;
+        font-weight: 400;
+        margin: 0 0 2px 0;
+    }
+    #shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem .skillbar {
+        height: 5px;
+        border-radius: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .client_slider {
+        height: 70px;
+        border-radius: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .client_slider .slide-track .slide {
+        height: 50px;
+        width: 200px;
+        line-height: 50px;
+    }
+    #shakhawat .body .tab-content .active .elements .client_slider .slide-track .slide a img {
+        width: 50px;
+        height: 50px;
+    }
+    #shakhawat .body .tab-content .active .elements .client_slider .slide-track {
+        margin: 10px 0;
+    }
+    /* ======================== about page small device responsive ended ============================ */
+    /* ======================== services page small device responsive start ============================ */
+    #shakhawat .body .tab-content .active .elements .work_box {
+        display: block;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work {
+        margin-top: 15px;
+        width: 100%;
+        border-radius: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work h4 {
+        font-size: 14px;
+        font-weight: 400;
+        gap: 10px;
+        padding: 10px 0 10px;
+        border: 1px solid #636262;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work p {
+        font-size: 12px;
+        padding: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box .box {
+        padding: 10px 15px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box .box span {
+        font-size: 14px;
+    }
+    /* ======================== services page small device responsive ended ============================ */
+    /* ======================== portfolio page small device responsive start ============================ */
+    #shakhawat .body .active .elements .portfolio_box {
+        margin-top: 20px;
+        display: block;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port {
+        width: 100%;
+        margin: 10px 0;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt h4 a {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt p {
+        font-size: 10px;
+    }
+    #shakhawat .body .active .elements .statement_box p {
+        font-size: 12px;
+    }
+    #shakhawat .body .active .elements .statement_box p span {
+        margin-top: 20px;
+    }
+    /* ======================== portfolio page extra small device responsive ended ============================ */
+    /* ======================== blog page extra small device responsive start ============================ */
+    #shakhawat .body .active .elements .blogs {
+        margin: 20px 0 0;
+        display: block;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item {
+        width: 100%;
+        margin: 10px 0;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt p {
+        font-size: 12px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header a{
+        font-size: 12px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header h4{
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header .btn-closed {
+        font-size: 15px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body img {
+        padding-bottom: 15px;
+        height: 200px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body a {
+        font-size: 12px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p span {
+        margin-top: 15px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p {
+        font-size: 12px;
+    }
+    .btn-secondary{
+        font-size: 12px;
+    }
+    /* ======================== blog page extra small device responsive ended ============================ */
+    /* ======================== contact page extra small device responsive start ============================ */
+    #shakhawat .body .tab-content .active .contct_elements .main_txt p {
+        font-size: 12px;
+        width: 100%;
+        margin: 0;
+    }
+    .social_box .social_list{
+        justify-content: space-around;
+    }
+    .social_box .social_list li {
+        margin: 0;
+    }
+    .social_box .social_list li a {
+        width: 30px;
+        height: 30px;
+    }
+    .social_box .social_list li a i {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .social_box .social_list li a::after {
+        top: 30px;
+        left: -5px;
+        height: 10px;
+    }
+    .social_box .social_list li a::before {
+        top: 5px;
+        left: -10px;
+        width: 10px;
+    }
+    .social_box .social_list li a:hover {
+        transform: perspective(100px) rotate(-30deg) skew(25deg) translate(10px, -10px);
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address h4 {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address p {
+        font-size: 12px;;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .form_head {
+        font-size: 14px;
+        font-weight: 400;
+        padding: 0 0 15px 0;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box {
+        display: block;
+        padding: 20px 10px;
+        border-top: 1.5px solid #621D3C;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box:hover {
+        border-top: 1.5px solid #A5A6FF;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx {
+        margin: 20px 0 0;
+        padding: 10px;
+        width: 40px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a {
+        font-size: 12px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a .icon {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt::after {
+        width: 100%;
+        height: 1%;
+        top: 110%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message {
+        width: 100%;
+        padding: 35px 0 0 0px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group label {
+        font-size: 12px;
+        left: 2px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form textarea {
+        height: 100px;
+        padding: 5px;
+        border: 1px solid #636262;
+        font-size: 12px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .button button {
+        font-size: 14px;
+        letter-spacing: 3px;
+        width: 100px;
+    }
+    /* ======================== contact page extra small device responsive ended ============================ */
+ }
+
+ @media (min-width: 576px) and (max-width: 767.98px) { 
+    /* ======================== common part small device responsive start ============================ */
+    a{
+        text-decoration: none;
+    }
+    body #shakhawat {
+	display: block;
+    }
+    body #shakhawat nav {
+	width: 100%;
+	height: auto;
+	padding: 0px 10px;
+	position: unset;
+    display: flex;
+    justify-content: space-between;
+     }
+     #shakhawat nav .navbar-brand {
+	width: 47%;
+	position: unset;
+	transform: translate(0);
+}
+#shakhawat nav .navbar-brand svg text {
+	font-size: 200px;
+}
+    #shakhawat nav .offcanvas {
+        margin: 0px;
+        width: 40%;
+    }
+        #shakhawat nav button {
+        font-size: 15px;
+        --bs-navbar-toggler-focus-width: 0;
+    }
+    #shakhawat nav .offcanvas .profile {
+        width: 70px;
+        height: 70px;
+        margin: 0 auto;
+        border: 2px solid #55527C;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px auto 0;
+    }
+    #shakhawat nav .offcanvas .title {
+        width: 80%;
+        margin: 10% auto 0;
+        font-size: 10px;
+        padding: 10px 0;
+    }
+    #shakhawat nav .offcanvas .title:hover {
+        font-weight: 400;
+        letter-spacing: 1px;
+    }
+    #shakhawat nav .offcanvas .title::after {
+        top: 97%;
+        left: -12%;
+    }
+    #shakhawat nav .offcanvas .pages {
+        height: auto;
+    }
+    #shakhawat nav .offcanvas .pages button {
+        font-size: 12px;
+    }
+    #shakhawat nav .offcanvas .pages .active {
+        font-weight: 600;
+    }
+    #shakhawat nav .offcanvas .social {
+        justify-content: space-around;
+    }
+    #shakhawat nav .offcanvas .social li a {
+        position: relative;
+        width: 40px;
+        height: 40px;
+        margin: 0;
+    }
+    #shakhawat nav .offcanvas .social li a .fab {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 15px;
+    }
+        #shakhawat nav .offcanvas .copyright {
+        margin-top: 35px;
+    }
+    #shakhawat nav .offcanvas .copyright p {
+        font-size: 12px;
+        letter-spacing: 2px;
+    }
+    body #shakhawat .body {
+	width: 100%;
+	height: auto;
+	padding: 0 10px;
+	position: unset;
+	overflow-y: unset;
+    }
+    body #shakhawat .body .tab-content {
+	padding: 15px 0;
+}
+    body #shakhawat .body .tab-content .active .head {
+        margin: 0px;
+    }
+    body #shakhawat .body .tab-content .active .head h2 {
+        font-size: 35px;
+        font-weight: 600;
+        letter-spacing: 12px;
+    }
+    body #shakhawat .body .tab-content .active .head h2 span {
+        font-size: 23px;
+        letter-spacing: 3px;
+    }
+    body #shakhawat .body .tab-content .active .elements .srttlep {
+        font-size: 12px;
+    }
+    body #shakhawat .body .tab-content .active .elements h3 {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    /* ======================== common page small device responsive ended ============================ */
+    /* ======================== home page small device responsive start ============================ */
+#shakhawat .body .tab-content .active .heading .txt {
+   width: 60%;
+}
+#shakhawat .body .tab-content .active .heading .img {
+	width: 40%;
+}
+#shakhawat .body .tab-content .active .heading .txt h1 {
+	font-size: 25px;
+	font-weight: 600;
+}
+#shakhawat .body .tab-content .active .heading .txt h2 {
+	font-size: 22px;
+	font-weight: 500;
+}
+#shakhawat .body .tab-content .active .heading .txt p {
+	margin-top: 30px;
+	font-size: 12px;
+}
+#shakhawat .body .tab-content .active .heading .txt p a {
+	font-size: 14px;
+	letter-spacing: 2px;
+    font-weight: 400;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv {
+	margin-top: 65px;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button {
+	padding: 5px 10px;
+	width: 165px;
+	font-size: 12px;
+}
+#shakhawat .body .tab-content .active .heading .img img {
+	top: 10%;
+	left: 8%;
+	width: 90%;
+}
+#shakhawat .body .tab-content .active .body_bottom p {
+	font-size: 12px;
+	letter-spacing: 2px;
+}
+#shakhawat .body .tab-content .active .body_bottom h3 {
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 2px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data {
+    padding: 15px 10px 10px !important;
+	border-top: 2px solid #621D3C;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data:hover{
+    border-top: 2px solid #A5A6FF;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name {
+	gap: 10px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .icn i {
+	padding: 10px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .nam p {
+	font-size: 12px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data::after {
+	width: 2px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data ul li a {
+	gap: 10px;
+	font-size: 12px;
+    flex-direction: row-reverse;
+}
+
+    /* ======================== home page small device responsive ended ============================ */
+    /* ======================== about page small device responsive ended ============================ */
+    #shakhawat .body .tab-content .active .about_txt {
+        padding: 50px 0;
+        display: block;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h3 {
+        font-size: 17px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p .desc_txt_btm {
+        margin-top: 10px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p .experience {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box {
+        gap: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience {
+        width: 200px;
+        padding: 20px 15px;
+    }
+    #shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem .skillbar {
+        height: 5px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h4 .animate {
+        left: 85px;
+    }
+    @keyframes scrolltitle {
+        from{
+            top: 110%;
+            left: 85px;
+        }
+        to{
+            top: -400%;
+            left: 85px;
+        }
+    }
+
+    /* ======================== about page small device responsive ended ============================ */
+    /* ======================== services page small device responsive ended ============================ */
+    #shakhawat .body .tab-content .active .elements .work_box {
+        display: block;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work {
+        margin: 15px auto 0;
+        width: 60%;
+        border-radius: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work h4 {
+        font-size: 14px;
+        font-weight: 400;
+        gap: 10px;
+        padding: 10px 0 10px;
+        border: 1px solid #636262;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work p {
+        font-size: 12px;
+        padding: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box .box {
+        padding: 13px 18px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box .box span {
+        font-size: 16px;
+    }
+    /* ======================== services page small device responsive ended ============================ */
+    /* ======================== portfolio page small device responsive strat ============================ */
+        #shakhawat .body .active .elements .portfolio_box {
+            margin: 10px 0 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        #shakhawat .body .active .elements .portfolio_box .port {
+            width: 32%;
+            margin: 10px 0;
+        }
+        #shakhawat .body .active .elements .portfolio_box .port .port_txt h4 a {
+            font-size: 14px;
+            font-weight: 400;
+        }
+        #shakhawat .body .active .elements .portfolio_box .port .port_txt p {
+            font-size: 12px;
+        }
+        #shakhawat .body .active .elements .statement_box p {
+            font-size: 14px;
+        }
+        #shakhawat .body .active .elements .statement_box p span {
+            margin-top: 20px;
+        }
+    /* ======================== portfolio page small device responsive ended ============================ */
+    /* ======================== blog page small device responsive strat ============================ */
+
+    #shakhawat .body .active .elements .blogs .blog_item {
+        width: 32%;
+        margin: 10px 0;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt p {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt h4 {
+        font-size: 17px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni {
+        right: -19%;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header a{
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header h4{
+        font-size: 17px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header .btn-closed {
+        font-size: 18px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body img {
+        padding-bottom: 15px;
+        height: 230px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body a {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body h4 {
+        font-size: 17px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p span {
+        margin-top: 15px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p {
+        font-size: 14px;
+    }
+    .btn-secondary{
+        font-size: 14px;
+    }
+    /* ======================== blog page small device responsive ended ============================ */
+    /* ======================== contact page small device responsive start ============================ */
+    #shakhawat .body .tab-content .active .contct_elements .main_txt p {
+        font-size: 14px;
+        width: 100%;
+        margin: 0;
+    }
+    .social_box .social_list{
+        justify-content: space-around;
+    }
+    .social_box .social_list li {
+        margin: 0;
+    }
+    .social_box .social_list li a {
+        width: 40px;
+        height: 40px;
+    }
+    .social_box .social_list li a i {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .social_box .social_list li a::after {
+        top: 40px;
+        left: -7px;
+        height: 14px;
+    }
+    .social_box .social_list li a::before {
+        top: 7px;
+        left: -14px;
+        width: 14px;
+    }
+    .social_box .social_list li a:hover {
+        transform: perspective(100px) rotate(-30deg) skew(25deg) translate(10px, -10px);
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address h4 {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address p {
+        font-size: 14px;;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .form_head {
+        font-size: 17px;
+        font-weight: 500;
+        padding: 0 0 15px 0;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box {
+        display: block;
+        padding: 20px 10px;
+        border-top: 1.5px solid #621D3C;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box:hover {
+        border-top: 1.5px solid #A5A6FF;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx {
+        margin: 20px 0 0;
+        padding: 10px;
+        width: 45px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a .icon {
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        font-size: 13px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt::after {
+        width: 100%;
+        height: 1%;
+        top: 110%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message {
+        width: 100%;
+        padding: 35px 0 0 0px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group label {
+        font-size: 12px;
+        left: 2px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form textarea {
+        height: 100px;
+        padding: 5px;
+        border: 1.5px solid #636262;
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .button button {
+        font-size: 17px;
+        letter-spacing: 3px;
+        width: 100px;
+    }
+    /* ======================== contact page small device responsive ended ============================ */
+    
+}
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    /* =================== common md device responsive start ================== */
+    a{
+        text-decoration: none;
+    }
+    #shakhawat nav .navbar-brand {
+	top: 105px;
+}
+#shakhawat nav .offcanvas .profile {
+	width: 80px;
+	height: 80px;
+}
+#shakhawat nav .offcanvas .title {
+	width: 90%;
+	font-size: 10px;
+	padding: 10px 15px;
+}
+#shakhawat nav .offcanvas .title::after {
+	left: -10%;
+}
+#shakhawat nav .offcanvas .pages button {
+	font-size: 14px;
+}
+#shakhawat nav .offcanvas .pages .active {
+	font-weight: 600;
+}
+#shakhawat nav .offcanvas .social li a {
+	width: 45px;
+	height: 45px;
+}
+#shakhawat nav .offcanvas .social li a .fab {
+	line-height: 35px;
+	font-size: 20px;
+}
+#shakhawat nav .offcanvas .copyright {
+	margin-top: 40px;
+}
+#shakhawat nav .offcanvas .copyright p {
+	font-size: 16px;
+	letter-spacing: 0px;
+}
+body #shakhawat .body .tab-content {
+	padding: 0;
+}
+body #shakhawat .body .tab-content .active .head h2 {
+	font-size: 40px;
+	font-weight: 700;
+}
+body #shakhawat .body .tab-content .active .head h2 span {
+	font-size: 25px;
+}
+body #shakhawat .body .tab-content .active .fast_element {
+	margin: 35px 0 0;
+}
+body #shakhawat .body .tab-content .active .elements .srttlep {
+	font-size: 14px;
+}
+body #shakhawat .body .tab-content .active .elements h3 {
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+body #shakhawat .body .tab-content .active .elements {
+	padding: 0px 0 50px 0;
+}
+/* =================== common md device responsive ended ================== */
+/* =================== home page md device responsive start ================== */
+#shakhawat .body .tab-content .active .heading .txt h1 {
+	font-size: 30px;
+	font-weight: 700;
+}
+#shakhawat .body .tab-content .active .heading .txt h2 {
+	font-size: 25px;
+	font-weight: 600;
+}
+#shakhawat .body .tab-content .active .heading .txt p {
+	margin-top: 20px;
+	font-size: 14px;
+}
+#shakhawat .body .tab-content .active .heading .txt p a {
+	font-size: 16px;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv {
+	margin: 70px 0 0;
+}
+#shakhawat .body .tab-content .active .heading .img img {
+	top: 5%;
+	left: 10%;
+	width: 90%;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button {
+	padding: 10px;
+	width: 170px;
+	font-size: 14px;
+}
+#shakhawat .body .tab-content .active .body_bottom p {
+	font-size: 14px;
+	letter-spacing: 2px;
+}
+#shakhawat .body .tab-content .active .body_bottom h3 {
+	font-size: 18px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data {
+	padding: 20px !important;
+	border-top: 2px solid #621D3C;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data:hover {
+	border-top: 2px solid #A5A6FF;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data::after {
+	width: 2px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name {
+	gap: 10px;
+	padding: 5px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .icn i {
+	padding: 10px;
+    font-size: 15px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .nam p {
+    letter-spacing: 0;
+	font-size: 14px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data ul li a {
+	gap: 10px;
+	font-size: 14px;
+}
+    /* =================== home page md device responsive ended ================== */
+    /* =================== about page md device responsive start ================== */
+    #shakhawat .body .tab-content .active .about_txt {
+        padding: 50px 0;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt {
+        width: 45%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h3 {
+        font-size: 18px;
+        letter-spacing: 8px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h4 .animate {
+        left: 60px;
+    }
+    @keyframes scrolltitle {
+        from{
+            top: 110%;
+            left: 60px;
+        }
+        to{
+            top: -400%;
+            left: 60px;
+        }
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt {
+        width: 55%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p .experience {
+        font-size: 16px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box {
+        gap: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience {
+        width: 230px;
+        padding: 15px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience h4 {
+        font-size: 18px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience p {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem .skillbar {
+        height: 7px;
+        border-radius: 15px;
+    }
+    /* =================== about page md device responsive ended ================== */
+    /* =================== services page md device responsive start ================== */
+    #shakhawat .body .tab-content .active .elements .work_box .work h4 {
+        font-size: 14px;
+        gap: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .work_box .work p {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box .box {
+        padding: 15px;
+    }
+    #shakhawat .body .tab-content .active .elements .price_box .box span {
+        font-size: 14px;
+    }
+    /* =================== services page md device responsive ended ================== */
+    /* =================== portfolio page md device responsive start ================== */
+    #shakhawat .body .active .elements .portfolio_box {
+        margin: 30px 0 0;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port {
+        height: 140px;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt {
+        bottom: -55%;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt h4 a {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt p {
+        font-size: 14px;
+        margin: 0;
+    }
+    #shakhawat .body .active .elements .statement_box p {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .statement_box p span {
+        margin: 25px 0 0;
+    }
+    /* =================== portfolio page md device responsive ended ================== */
+    /* =================== blog page md device responsive ended ================== */
+    #shakhawat .body .active .elements .blogs {
+        margin: 25px 0 0;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item {
+        width: 32%;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img {
+        height: 160px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt {
+        padding: 10px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt p {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni {
+        right: -23%;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header a {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body a {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p span {
+        margin: 15px 0 0;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p {
+        font-size: 14px;
+    }
+    /* =================== blog page md device responsive ended ================== */
+    /* =================== contact page md device responsive start ================== */
+    #shakhawat .body .tab-content .active .contct_elements .main_txt p {
+        font-size: 14px;
+        width: 100%;
+    }
+    .social_box .social_list {
+        justify-content: space-around;
+    }
+    .social_box .social_list li {
+        margin: 0;
+    }
+    .social_box .social_list li a {
+        width: 50px;
+        height: 50px;
+    }
+    .social_box .social_list li a::after {
+        top: 50px;
+    }
+    .social_box .social_list li a i {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address h4 {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address p {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx {
+        margin: 50px 0 0;
+        width: 50px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .form_head {
+        font-size: 14px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group label {
+        font-size: 14px;
+        left: 3px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group {
+        width: 47%;
+        margin: 15px 0;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .mail_group {
+        width: 100%;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form textarea {
+        height: 100px;
+        padding: 5px;
+        border: 2px solid #636262;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .button button {
+        font-size: 14px;
+        width: 130px;
+        background: transparent;
+    }
+    /* =================== contact page md device responsive ended ================== */
+ }
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* ================= common lg device responsive start ===================  */
+    a{
+        text-decoration: none;
+    }
+    #shakhawat nav .offcanvas .title {
+        width: 90%;
+    }
+    body #shakhawat .body .tab-content .active .elements .srttlep {
+        font-size: 22px;
+    }
+    #shakhawat nav .offcanvas .copyright p {
+        font-size: 18px;
+    }
+    body #shakhawat .body .tab-content .active .head h2 {
+        font-size: 45px;
+    }
+    body #shakhawat .body .tab-content .active .head h2 span {
+        font-size: 30px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt .srttlep {
+        font-size: 18px;
+    }
+    #shakhawat .body .tab-content .active .about_txt .header_txt h3 {
+        font-size: 27px;
+    }
+    /* ================= common lg device responsive ended ===================  */
+    /* ================= home page lg device responsive start ===================  */
+    #shakhawat .body .tab-content .active .heading .txt h1 {
+        font-size: 37px;
+    }
+    #shakhawat .body .tab-content .active .heading .txt h2 {
+        font-size: 33px;
+    }
+    #shakhawat .body .tab-content .active .heading .txt .downl_cv {
+        margin: 70px 0 0;
+    }
+    /* ================= home page lg device responsive ended ===================  */
+    /* ================= about page lg device responsive start ===================  */
+    #shakhawat .body .tab-content .active .about_txt .header_txt h4 .animate {
+        left: 85px;
+    }
+    @keyframes scrolltitle {
+        from{
+            top: 110%;
+            left: 85px;
+        }
+        to{
+            top: -400%;
+            left: 85px;
+        }
+    }
+    #shakhawat .body .tab-content .active .elements .element_box {
+        gap: 10px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience::after {
+        left: -143%;
+    }
+    #shakhawat .body .tab-content .active .about_txt .descript_txt p .experience {
+        font-size: 18px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience {
+        padding: 30px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience h4 {
+        font-size: 27px;
+    }
+    #shakhawat .body .tab-content .active .elements .element_box .experience p {
+        font-size: 18px;
+    }
+    /* ================= about page lg device responsive ended ===================  */
+    /* ================= service page lg device responsive strat ===================  */
+    #shakhawat .body .tab-content .active .elements .price_box .box span {
+        font-size: 18px;
+    }
+    /* ================= service page lg device responsive ended ===================  */
+    /* ================= portfolio page lg device responsive start ===================  */
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt h4 a {
+        font-size: 20px;
+    }
+    #shakhawat .body .active .elements .portfolio_box .port .port_txt p{
+        margin: 0;
+    }
+    /* ================= portfolio page lg device responsive ended ===================  */
+    /* ================= blog page lg device responsive strat ===================  */
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img {
+        height: 150px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item {
+        width: 32%;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni{
+        right: -20%;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt p {
+        font-size: 16px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt {
+        padding: 10px;
+    }
+    #shakhawat .body .active .elements .blogs .blog_item .blog_txt h4 {
+        font-size: 18px;
+    }
+    /* ================= blog page lg device responsive ended ===================  */
+    /* ================= contact page lg device responsive start ===================  */
+    body #shakhawat .body .tab-content .active .elements h3 {
+        font-size: 27px;
+    }
+    #shakhawat .body .tab-content .active .contct_elements .main_txt p {
+        font-size: 18px;
+        width: 100%;
+    }
+    .social_box .social_list {
+        justify-content: space-around;
+    }
+    .social_box .social_list li {
+        margin: 0;
+    }
+    .social_box .social_list li a {
+        width: 65px;
+        height: 65px;
+    }
+    .social_box .social_list li a::after {
+        top: 64px;
+    }
+    .social_box .social_list li a i {
+        line-height: 65px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt {
+        width: 40%;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx {
+        width: 50px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group label {
+        font-size: 18px;
+        top: 5px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form textarea {
+        border: 1.5px solid #636262;
+        height: 130px;
+    }
+    #shakhawat .body .tab-content .active .elements .contact_box .message form .button button {
+        background: transparent;
+    }
+    /* ================= contact page lg device responsive ended ===================  */
+ }

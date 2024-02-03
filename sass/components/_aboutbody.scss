@@ -1,0 +1,271 @@
+@import '../mixins/mixin';
+@import '../variables/variable';
+#shakhawat{
+    .body{
+        .tab-content{
+            .active{
+                .about_txt{
+                    padding: 70px 0;
+                    display: flex;
+                    .header_txt{
+                        width: 50%;
+                        .srttlep{
+                            margin: 0;
+                            @include paragraph ($ff: $title_font , $fs: 15px , $fw: 400 , $clr: $secondery_color );
+                            text-transform: capitalize;
+                        }
+                        h3{
+                            @include headig ($ff: $primary_font , $fs: 30px , $fw: 600 , $clr: $primary_color );
+                            text-transform: capitalize;
+                            letter-spacing: 5px;
+                        }
+                        h4{
+                            @include headig ($ff: $primary_font , $fs: 20px , $fw: 500 , $clr: $primary_color );
+                            overflow: hidden;
+                            position: relative;
+                            text-transform: capitalize;
+                            .animate{
+                                position: absolute;
+                                top: 0;
+                                left: 20%;
+                                display: flex;
+                                flex-direction: column;
+                                gap: 15px;
+                                animation: scrolltitle 5s linear infinite alternate;
+                                @keyframes scrolltitle {
+                                    from{
+                                        top: 110%;
+                                        left: 20%;
+                                    }
+                                    to{
+                                        top: -400%;
+                                        left: 20%;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .descript_txt{
+                        width: 50%;
+                        p{
+                            @include paragraph ($ff: $secondery_font , $fs: 18px , $fw: 400 , $clr: $secondery_color );
+                            text-align: justify;
+                            .nam{
+                                color: $brand_color;
+                            }
+                            .desc_txt_btm{
+                                display: block;
+                                margin-top: 30px;
+                            }
+                            .experience{
+                                font-size: 22px;
+                                color: $brand_color;
+                                font-weight: 500;
+                            }
+                        }
+                    }
+                }
+                .elements{
+                    .element_box{
+                        display: flex;
+                        justify-content: space-between;
+                        .experience{
+                            width: 250px;
+                            padding: 50px 15px;
+                            background-color: #FFDBAC;
+                            border-radius: 10px;
+                            position: relative;
+                            overflow: hidden;
+                            text-align: center;
+                            &::after{
+                                content: '';
+                                width: 200%;
+                                height: 50%;
+                                background-color: rgb(255, 255, 255 , 0.30);
+                                position: absolute;
+                                top: 0;
+                                left: -130%;
+                                transform: rotate(135deg);
+                                transition: .4s;
+                            }
+                            &:hover::after{
+                                left: 80%;
+                            }
+                            h4{
+                                @include headig ($ff: $primary_font , $fs: 30px , $fw: 600 , $clr: $secondery_color );
+                            }
+                            p{
+                                @include paragraph ($ff: $secondery_font , $fs: 16px , $fw: 400 , $clr: $secondery_color );
+                            }
+                        }
+                        .experience:nth-child(2){
+                            background-color: #DFE3EE;
+                        }
+                        .experience:nth-child(3){
+                            background-color: #E4DCF1;
+                        }
+                    }
+                    .skillbar-wrapper {
+                        width: 100%;
+                        padding: 30px 15px;
+                        border-radius: 15px;
+                        background-color: white;
+                        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+                        display: flex;
+                        flex-direction: column;
+                        gap: 25px;
+                        .skillitem{
+                            h4{
+                                display: flex;
+                                justify-content: space-between;
+                                @include headig ($ff: $primary_font , $fs: 15px , $fw: 500 , $clr: $primary_color );
+                                margin: 0;
+                            }
+                            .skillbar {
+                              position:relative;
+                              background: #eee;
+                              height: 10px;
+                              border-radius: 20px; 
+                              overflow: hidden;
+                              .skillbar-bar {
+                                height: 100%;
+                                width: 0%;
+                                border-radius: 20px;
+                                transition: 4s linear;
+                                transition-property: width, background-color;
+                              }
+                            }
+                        }
+                        .html{
+                            h4{
+                                color: #DD4B25;
+                            }
+                            .skillbar{
+                                .skillbar-bar{
+                                    background-color: #DD4B25;
+                                }
+                            }
+                        }
+                        .css{
+                            h4{
+                                color: #2862E9;
+                            }
+                            .skillbar{
+                                .skillbar-bar{
+                                    background-color: #2862E9;
+                                }
+                            }
+                        }
+                        .sass{
+                            h4{
+                                color: #C76494;
+                            }
+                            .skillbar{
+                                .skillbar-bar{
+                                    background-color: #C76494
+                                }
+                            }
+                        }
+                        .javascript{
+                            h4{
+                                color: #E8D44D;
+                            }
+                            .skillbar{
+                                .skillbar-bar{
+                                    background-color: #E8D44D
+                                }
+                            }
+                        }
+                        .jQuery{
+                            h4{
+                                color: #0865A7;
+                            }
+                            .skillbar{
+                                .skillbar-bar{
+                                    background-color: #0865A7
+                                }
+                            }
+                        }
+                        .bootstrap{
+                            h4{
+                                color: #7010EF;
+                            }
+                            .skillbar{
+                                .skillbar-bar{
+                                    background-color: #7010EF
+                                }
+                            }
+                        }
+                    }
+                    .client_slider {
+                        width: 100%;
+                        height: 100px;
+                        border-radius: 15px;
+                        overflow: hidden;
+                        position: relative;
+                        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+                        &::before {
+                            content: "";
+                            height: 100px;
+                            width: 200px;
+                            background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+                            position: absolute;
+                            z-index: 2;
+                            left: 0;
+                            top: 0;
+                        }
+                        &::after {
+                        content: "";
+                        height: 100px;
+                        width: 200px;
+                        background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+                        position: absolute;
+                        z-index: 2;
+                        right: 0;
+                        top: 0;
+                        -webkit-transform: rotateZ(180deg);
+                        transform: rotateZ(180deg);
+                        }
+                        .slide-track {
+                            -webkit-animation: scroll 40s linear infinite;
+                            animation: scroll 40s linear infinite;
+                            display: flex;
+                            width: calc(250px * 14);
+                            .slide {
+                                height: 100px;
+                                width: 250px;
+                                line-height: 100px;
+                                a{
+                                    img{
+                                        width: 70px;
+                                        height: 70px;
+                                    }
+                                }
+                            }
+                            @-webkit-keyframes scroll{
+                                0% {
+                                  -webkit-transform: translateX(0);
+                                  transform: translateX(0);
+                                }
+                                100% {
+                                  -webkit-transform: translateX(calc(-250px * 7));
+                                  transform: translateX(calc(-250px * 7));
+                                }
+                              }
+                              @keyframes scroll {
+                                0% {
+                                  -webkit-transform: translateX(0);
+                                  transform: translateX(0);
+                                }
+                                100% {
+                                  -webkit-transform: translateX(calc(-250px * 7));
+                                  transform: translateX(calc(-250px * 7));
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

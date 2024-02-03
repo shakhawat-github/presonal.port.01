@@ -1,0 +1,125 @@
+@import "../variables/variable";
+@mixin headig ($ff: $primary_font , $fs: 50px , $fw: 700 , $clr: $primary_color ){
+    font-family: $ff;
+    font-size: $fs;
+    font-weight: $fw;
+    color: $clr;
+}
+@mixin paragraph ($ff: $secondery_font , $fs: 20px , $fw: 400 , $clr: $secondery_color ){
+    font-family: $ff;
+    font-size: $fs;
+    font-weight: $fw;
+    color: $clr;
+}
+@mixin svgtxt($width: 100% , $height: 100% , $fs: 150px , $fw: 700 , $txtt: uppercase ){
+    font-family: 'Russo One', sans-serif;
+    width: $width; 
+    height: $height;
+       text {
+       text-transform: $txtt;
+       animation: stroke 5s infinite alternate;
+       stroke-width: 2;
+       stroke: #365fa0;
+       font-size: $fs;
+       font-weight: $fw;
+        }
+        @keyframes stroke {
+            0%   {
+                fill: rgba(72,138,20,0); stroke: rgba(54,95,160,1);
+                stroke-dashoffset: 25%; stroke-dasharray: 0 50%; stroke-width: 2;
+            }
+            70%  {fill: rgba(72,138,20,0); stroke: rgba(54,95,160,1); }
+            80%  {fill: rgba(72,138,20,0); stroke: rgba(54,95,160,1); stroke-width: 3; }
+            100% {
+                fill: rgba(72,138,204,1); stroke: rgba(54,95,160,0); 
+                stroke-dashoffset: -25%; stroke-dasharray: 50% 0; stroke-width: 0;
+            }
+        }
+    
+}
+
+@mixin boxhover2($hovbeforewidth2: 250px 0 0 250px , $hovafterwidth2: 0 250px 250px 0 , $clr: $primary_color , $hovtextcolor: white){
+	color: $clr;
+	border: 1px solid #2d4695;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	&:before {
+		content: '';
+		width: 0;
+		height: 0;
+		transform: rotate(360deg);
+		border-style: solid;
+		border-width: 0 0 0 0;
+		border-color: transparent transparent transparent #05164e;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		z-index: -1;
+		transition: .4s;
+	}
+	&:after {
+		content: '';
+		width: 0;
+		height: 0;
+		transform: rotate(360deg);
+		border-style: solid;
+		border-width: 0 0 0 0;
+		border-color:  transparent #05164e transparent transparent;
+		position: absolute;
+		top: 0;
+		right: 0;
+		z-index: -1;
+		transition: .4s;
+	}
+	&:hover {
+		color: $hovtextcolor;
+		&:before {
+			border-width: $hovbeforewidth2;
+		}
+		&:after {
+			border-width: $hovafterwidth2;
+		}
+	}
+	&:active {
+		background: #092683;
+	}
+}
+
+
+@mixin boxhov1($transition: 1s , $bxpadding: 15px , $bxbg: gray , $hovafterclr: #05164e , $hovbeforeclr: #05164e , $aftertop: -5% , $afterleft: -2% , $beforetop: 105% , $beforeleft: 102% , $transrotated: -45deg , $transscal: 25){
+	padding: $bxpadding;
+	background-color: $bxbg;
+	position: relative;
+	z-index: 0;
+	&::after{
+		content: '';
+		width: 20px;
+		height: 20px;
+		background-color: $hovafterclr;
+		position: absolute;
+		top: $aftertop;
+		left: $afterleft;
+		transform: rotate($transrotated);
+		transition: $transition;
+		z-index: -1;
+	}
+	&::before{
+		content: '';
+		width: 20px;
+		height: 20px;
+		background-color: $hovbeforeclr;
+		position: absolute;
+		top: $beforetop;
+		left: $beforeleft;
+		transform: rotate($transrotated);
+		transition: $transition;
+		z-index: -1;
+	}
+	&:hover::after{
+		transform: scale($transscal) rotate($transrotated);
+	}
+	&:hover::before{
+		transform: scale($transscal) rotate($transrotated);
+	}
+}

@@ -1,0 +1,175 @@
+@import '../mixins/mixin';
+@import '../variables/variable';
+#shakhawat{
+    .body{
+        .tab-content{
+            .active{
+                .heading{
+                    display: flex;
+                    .txt{
+                        width: 50%;
+                        h1{
+                            text-transform: capitalize;
+                            @include headig ($ff: $primary_font , $fs: 50px , $fw: 900 , $clr: $primary_color );
+                            span{
+                                color: $brand_color;
+                            }
+                        }
+                        h2{
+                            text-transform: capitalize;
+                            @include headig ($ff: $primary_font , $fs: 40px , $fw: 700 , $clr: $primary_color );
+                            span{
+                                padding:  0 5px 0 0;
+                                border-right: 2px solid $primary_color;
+                            }
+                        }
+                        p{
+                            margin-top: 30px;
+                            @include paragraph ($ff: $secondery_font , $fs: 18px , $fw: 400 , $clr: $secondery_color );
+                            text-align: justify;
+                            a{
+                                text-decoration: none;
+                                font-size: 22px ;
+                                letter-spacing: 3px;
+                                color: $brand_color;
+                                font-weight: 500;
+                            }
+                        }
+                        .downl_cv{
+                            margin-top: 100px;
+                            button{
+                                padding: 10px 20px;
+                                width: 200px;
+                                @include paragraph ($ff: $title_font , $fs: 20px , $fw: 400 , $clr: $primary_color );
+                                @include boxhover2($hovbeforewidth2: 130px 0 0 130px , $hovafterwidth2: 0 130px 130px 0);
+                                transition: .4s;
+                                &:hover{
+                                    letter-spacing: 3px;
+                                }
+                            }
+                        }
+                    }
+                    .img{
+                        width: 50%;
+                        position: relative;
+                        img{
+                            position: absolute;
+                            bottom: 0;
+                            left: 5%;
+                            width: 85%;
+                        }
+                    }
+                }
+                .body_bottom{
+                    margin: 70px 0 0 ;
+                    p{
+                        @include paragraph ($ff: $title_font , $fs: 20px , $fw: 400 , $clr: $secondery_color );
+                        text-transform: capitalize;
+                        margin: 0;
+                    }
+                    h3{
+                        text-transform: capitalize;
+                        @include headig ($ff: $primary_font , $fs: 30px , $fw: 600 , $clr: $primary_color );
+                        letter-spacing: 3px;
+                    }
+                    .personal_data{
+                        display: flex;
+                        justify-content: space-between;
+                        width: 100%;
+                        padding: 30px 20px 20px !important;
+                        background-color: #DFDFE3;
+                        border-radius: 10px 10px 0 0;
+                        border-top: 3px solid #621D3C;
+                        transition: .4s;
+                        &:hover{
+                            border-top: 3px solid $brand_color;
+                            .fast_data{
+                                &::after{
+                                    background-color: $brand_color;
+                                }
+                            }
+                        }
+                        .fast_data{
+                            width: 50%;
+                            padding: 0 10px;
+                            display: flex;
+                            flex-direction: column;
+                            gap: 15px;
+                            position: relative;
+                            &::after{
+                                content: '';
+                                width: 3px;
+                                height: 100%;
+                                background: #621D3C;
+                                position: absolute;
+                                top: 0;
+                                right: -10%;
+                                transition: .4s;
+                            }
+                            .name{
+                                display: flex;
+                                align-items: center;
+                                gap: 15px;
+                                background: $bodybg;
+                                padding: 5px 10px;
+                                border-radius: 10px;
+                                .icn{
+                                    i{
+                                        padding: 15px;
+                                        color: #E93B81;
+                                        background-color: #fff;
+                                        border-radius: 10px;
+                                        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+                                        transition: .4s;
+                                    }
+                                }
+                                .nam{
+                                    p{
+                                        @include paragraph ($ff: $secondery_font , $fs: 18px , $fw: 400 , $clr: $primary_color );
+                                        span{
+                                            display: block;
+                                            text-transform: capitalize;
+                                        }
+                                    }
+                                }
+                            }
+                            .birth{
+                                .icn{
+                                    i{
+                                        color: #6AB5B9;
+                                    }
+                                }
+                            }
+                            .language{
+                                .icn{
+                                    i{
+                                        color: #9d85d0;
+                                    }
+                                }
+                            }
+                        }
+                        ul{
+                            margin: auto 0 !important;
+                            display: flex;
+                            flex-direction: column;
+                            gap: 15px;
+                            li{
+                                a{
+                                    text-decoration: none;
+                                    display: flex;
+                                    gap: 15px;
+                                    align-items: center;
+                                    @include paragraph ($ff: $secondery_font , $fs: 18px , $fw: 400 , $clr: $primary_color );
+                                    transition: .4s;
+                                    &:hover{
+                                        color: $brand_color;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

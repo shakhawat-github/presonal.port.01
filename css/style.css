@@ -1,0 +1,1602 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+ul, ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#trail-cursor {
+  position: fixed;
+  display: block;
+  border-radius: 0;
+  transform-origin: center center;
+  top: 0;
+  left: 0;
+  z-index: 2;
+}
+#trail-cursor .circle {
+  pointer-events: none;
+  height: 5px;
+  width: 5px;
+  border-radius: 50%;
+  background: #FF6F69;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+body {
+  width: 100%;
+  background-color: #F4F4F8 !important;
+}
+body #shakhawat {
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+body #shakhawat nav {
+  width: 30%;
+  height: 100vh;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+  overflow-y: scroll;
+  box-shadow: rgba(33, 35, 38, 0.1) 10px 0px 10px -10px;
+}
+body #shakhawat .dot {
+  background-repeat: repeat;
+}
+body #shakhawat .dot--1 {
+  position: relative;
+  background-image: linear-gradient(to bottom, transparent, transparent 20%, #fff 20%, #fff 90%, transparent 90%), linear-gradient(to right, transparent, transparent 20%, #fff 20%, #fff 90%, transparent 90%), linear-gradient(to right, #eee, #eee 10%, #fff 10%, #fff 50%, #eee 50%);
+  background-size: 10px 10px;
+}
+body #shakhawat .body {
+  width: 70%;
+  height: 100vh;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  overflow-y: scroll;
+}
+body #shakhawat .body .tab-content {
+  padding: 15px;
+}
+body #shakhawat .body .tab-content .active .head {
+  margin-top: 20px;
+}
+body #shakhawat .body .tab-content .active .head h2 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: #e8e8ed;
+  text-transform: uppercase;
+  letter-spacing: 30px;
+  text-align: center;
+  position: relative;
+}
+body #shakhawat .body .tab-content .active .head h2 span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  color: #55527C;
+  letter-spacing: 5px;
+}
+body #shakhawat .body .tab-content .active .elements {
+  padding: 0 0 70px 0;
+}
+body #shakhawat .body .tab-content .active .elements .srttlep {
+  margin: 0;
+  font-family: "Sevillana", cursive;
+  font-size: 18px;
+  font-weight: 400;
+  color: #000;
+  text-transform: capitalize;
+}
+body #shakhawat .body .tab-content .active .elements h3 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #55527C;
+  text-transform: capitalize;
+}
+body #shakhawat .body .tab-content .active .fast_element {
+  margin-top: 50px;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+.modal-backdrop {
+  position: unset !important;
+}
+
+.modal {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Demo Styles */
+#content {
+  margin: 0 auto;
+  padding-bottom: 50px;
+  width: 80%;
+  max-width: 978px;
+}
+
+/* The Loader */
+#loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  overflow: hidden;
+}
+.no-js #loader-wrapper {
+  display: none;
+}
+
+#loader {
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  border-top-color: #16a085;
+  animation: spin 1.7s linear infinite;
+  z-index: 11;
+}
+#loader:before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  border-top-color: #e74c3c;
+  animation: spin-reverse 0.6s linear infinite;
+}
+#loader:after {
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  border-top-color: #f9c922;
+  animation: spin 1s linear infinite;
+}
+
+.loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.loader-wrapper .loader {
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: -50px;
+  margin-left: -50px;
+  border: 3px solid transparent;
+  border-top-color: #A5A6FF;
+  border-radius: 50%;
+  z-index: 1001;
+  animation: spin 1.5s infinite linear;
+}
+.loader-wrapper .loader::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border: 3px solid transparent;
+  border-top-color: #A5A6FF;
+  animation: spin 1s infinite linear;
+}
+.loader-wrapper .loader::before {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border: 3px solid transparent;
+  border-top-color: #A5A6FF;
+  animation: spin 2s infinite linear;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loader-wrapper .loader-section {
+  position: fixed;
+  top: 0;
+  width: 51%;
+  height: 100%;
+  background: #fff9f9;
+  z-index: 1000;
+}
+.loader-wrapper .section-left {
+  left: 0;
+}
+.loader-wrapper .section-right {
+  right: 0;
+}
+
+.loaded .section-left {
+  transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transform: translateX(-100%);
+}
+
+.loaded .section-right {
+  transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  transform: translateX(100%);
+}
+
+.loaded .loader-wrapper {
+  visibility: hidden;
+  transform: translateY(-100%);
+  transition: all 0.3s 1s ease-out;
+}
+.loaded .loader-wrapper .loader {
+  transition: all 0.3s ease-out;
+  opacity: 0;
+}
+
+.social_box {
+  position: relative;
+}
+.social_box .social_list {
+  margin: 50px 0 0;
+  padding: 0;
+  display: flex;
+}
+.social_box .social_list li {
+  list-style: none;
+  margin: 0 40px;
+}
+.social_box .social_list li a {
+  position: relative;
+  display: block;
+  width: 80px;
+  height: 80px;
+  background-color: #fff;
+  text-align: center;
+  transform: perspective(100px) rotate(-30deg) skew(25deg) translate(0, 0);
+  transition: 0.5s;
+  box-shadow: -20px 20px 10px rgba(0, 0, 0, 0.5);
+}
+.social_box .social_list li a i {
+  font-size: 40px;
+  color: #262626;
+  line-height: 80px;
+  transition: 0.5s;
+}
+.social_box .social_list li a::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: -20px;
+  height: 100%;
+  width: 20px;
+  background: #b1b1b1;
+  transition: 0.5s;
+  transform: rotate(0deg) skewY(-45deg);
+}
+.social_box .social_list li a::after {
+  content: "";
+  position: absolute;
+  top: 80px;
+  left: -11px;
+  height: 20px;
+  width: 100%;
+  background: #b1b1b1;
+  transition: 0.5s;
+  transform: rotate(0deg) skewX(-45deg);
+}
+.social_box .social_list li a:hover {
+  transform: perspective(1000px) rotate(-30deg) skew(25deg) translate(20px, -20px);
+  box-shadow: -50px 50px 50px rgba(0, 0, 0, 0.5);
+}
+.social_box .social_list li:hover a i {
+  color: #fff;
+}
+.social_box .social_list .facebook:hover a {
+  background: #3b5999;
+}
+.social_box .social_list .facebook:hover a::before {
+  background: #2e4a86;
+}
+.social_box .social_list .facebook:hover a::after {
+  background: #4a69ad;
+}
+.social_box .social_list .twitter:hover a {
+  background: #55acee;
+}
+.social_box .social_list .twitter:hover a::after {
+  background: #4d9fde;
+}
+.social_box .social_list .twitter:hover a::before {
+  background: #4184b7;
+}
+.social_box .social_list .google-plus:hover a {
+  background: #dd4b39;
+}
+.social_box .social_list .google-plus:hover a::after {
+  background: #e83322;
+}
+.social_box .social_list .google-plus:hover a::before {
+  background: #c13929;
+}
+.social_box .social_list .linkedin:hover a {
+  background: #0077b5;
+}
+.social_box .social_list .linkedin:hover a::after {
+  background: #0d82bf;
+}
+.social_box .social_list .linkedin:hover a::before {
+  background: #036aa0;
+}
+.social_box .social_list .instagram:hover a {
+  background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
+}
+.social_box .social_list .instagram:hover a::after {
+  background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
+}
+.social_box .social_list .instagram:hover a::before {
+  background: linear-gradient(#400080, transparent), linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
+}
+
+#shakhawat nav .navbar-brand {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  position: absolute;
+  top: 130px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+#shakhawat nav .navbar-brand svg {
+  font-family: "Russo One", sans-serif;
+  width: 100%;
+  height: 100%;
+}
+#shakhawat nav .navbar-brand svg text {
+  text-transform: uppercase;
+  animation: stroke 5s infinite alternate;
+  stroke-width: 2;
+  stroke: #365fa0;
+  font-size: 130px;
+  font-weight: 700;
+}
+@keyframes stroke {
+  0% {
+    fill: rgba(72, 138, 20, 0);
+    stroke: rgb(54, 95, 160);
+    stroke-dashoffset: 25%;
+    stroke-dasharray: 0 50%;
+    stroke-width: 2;
+  }
+  70% {
+    fill: rgba(72, 138, 20, 0);
+    stroke: rgb(54, 95, 160);
+  }
+  80% {
+    fill: rgba(72, 138, 20, 0);
+    stroke: rgb(54, 95, 160);
+    stroke-width: 3;
+  }
+  100% {
+    fill: rgb(72, 138, 204);
+    stroke: rgba(54, 95, 160, 0);
+    stroke-dashoffset: -25%;
+    stroke-dasharray: 50% 0;
+    stroke-width: 0;
+  }
+}
+#shakhawat nav .offcanvas {
+  margin-top: 20px;
+  width: 100%;
+}
+#shakhawat nav .offcanvas .profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+  border: 3px solid #55527C;
+  overflow: hidden;
+}
+#shakhawat nav .offcanvas .profile:hover img {
+  transform: scale(1.2);
+}
+#shakhawat nav .offcanvas .profile img {
+  width: 100%;
+  transition: 0.4s;
+}
+#shakhawat nav .offcanvas .title {
+  width: 70%;
+  text-align: center;
+  margin: 25% auto 0;
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #636262;
+  text-transform: uppercase;
+  overflow: hidden;
+  padding: 15px;
+  background-color: #e8e8ed;
+  position: relative;
+  z-index: 0;
+  transition: 0.4s;
+}
+#shakhawat nav .offcanvas .title::after {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-color: #05164e;
+  position: absolute;
+  top: 94%;
+  left: -7%;
+  transform: rotate(-45deg);
+  transition: 0.6s;
+  z-index: -1;
+}
+#shakhawat nav .offcanvas .title::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-color: #05164e;
+  position: absolute;
+  top: 96%;
+  left: 99%;
+  transform: rotate(-45deg);
+  transition: 0.6s;
+  z-index: -1;
+}
+#shakhawat nav .offcanvas .title:hover::after {
+  transform: scale(25) rotate(-45deg);
+}
+#shakhawat nav .offcanvas .title:hover::before {
+  transform: scale(25) rotate(-45deg);
+}
+#shakhawat nav .offcanvas .title:hover {
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+#shakhawat nav .offcanvas .pages {
+  padding: 20px 0 20px;
+  height: 100%;
+}
+#shakhawat nav .offcanvas .pages button {
+  background: transparent;
+  padding: 5px;
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #55527C;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+#shakhawat nav .offcanvas .pages .active {
+  color: #A5A6FF;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+#shakhawat nav .offcanvas .social {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+#shakhawat nav .offcanvas .social li {
+  list-style: none;
+}
+#shakhawat nav .offcanvas .social li a {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  display: block;
+  text-align: center;
+  margin: 0 10px;
+  border-radius: 50%;
+  padding: 6px;
+  box-sizing: border-box;
+  text-decoration: none;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(0deg, #ddd, #fff);
+  transition: 0.4s;
+}
+#shakhawat nav .offcanvas .social li a:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+}
+#shakhawat nav .offcanvas .social li a .fab {
+  width: 100%;
+  height: 100%;
+  display: block;
+  background: linear-gradient(0deg, #fff, #ddd);
+  border-radius: 50%;
+  line-height: 48px;
+  font-size: 24px;
+  color: #262626;
+  transition: 0.4s;
+}
+#shakhawat nav .offcanvas .social li:nth-child(1) a:hover .fab {
+  color: #3b5998;
+}
+#shakhawat nav .offcanvas .social li:nth-child(2) a:hover .fab {
+  color: #00aced;
+}
+#shakhawat nav .offcanvas .social li:nth-child(3) a:hover .fab {
+  color: #dd4b39;
+}
+#shakhawat nav .offcanvas .copyright {
+  margin-top: 50px;
+}
+#shakhawat nav .offcanvas .copyright p {
+  text-align: center;
+  font-family: "Sevillana", cursive;
+  font-size: 20px;
+  font-weight: 400;
+  color: #55527C;
+  letter-spacing: 2px;
+}
+#shakhawat nav .offcanvas .copyright p span {
+  display: block;
+}
+
+#shakhawat .body .tab-content .active .heading {
+  display: flex;
+}
+#shakhawat .body .tab-content .active .heading .txt {
+  width: 50%;
+}
+#shakhawat .body .tab-content .active .heading .txt h1 {
+  text-transform: capitalize;
+  font-family: "Urbanist", sans-serif;
+  font-size: 50px;
+  font-weight: 900;
+  color: #55527C;
+}
+#shakhawat .body .tab-content .active .heading .txt h1 span {
+  color: #A5A6FF;
+}
+#shakhawat .body .tab-content .active .heading .txt h2 {
+  text-transform: capitalize;
+  font-family: "Urbanist", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: #55527C;
+}
+#shakhawat .body .tab-content .active .heading .txt h2 span {
+  padding: 0 5px 0 0;
+  border-right: 2px solid #55527C;
+}
+#shakhawat .body .tab-content .active .heading .txt p {
+  margin-top: 30px;
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  text-align: justify;
+}
+#shakhawat .body .tab-content .active .heading .txt p a {
+  text-decoration: none;
+  font-size: 22px;
+  letter-spacing: 3px;
+  color: #A5A6FF;
+  font-weight: 500;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv {
+  margin-top: 100px;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button {
+  padding: 10px 20px;
+  width: 200px;
+  font-family: "Sevillana", cursive;
+  font-size: 20px;
+  font-weight: 400;
+  color: #55527C;
+  color: #55527C;
+  border: 1px solid #2d4695;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:before {
+  content: "";
+  width: 0;
+  height: 0;
+  transform: rotate(360deg);
+  border-style: solid;
+  border-width: 0 0 0 0;
+  border-color: transparent transparent transparent #05164e;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:after {
+  content: "";
+  width: 0;
+  height: 0;
+  transform: rotate(360deg);
+  border-style: solid;
+  border-width: 0 0 0 0;
+  border-color: transparent #05164e transparent transparent;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:hover {
+  color: white;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:hover:before {
+  border-width: 130px 0 0 130px;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:hover:after {
+  border-width: 0 130px 130px 0;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:active {
+  background: #092683;
+}
+#shakhawat .body .tab-content .active .heading .txt .downl_cv button:hover {
+  letter-spacing: 3px;
+}
+#shakhawat .body .tab-content .active .heading .img {
+  width: 50%;
+  position: relative;
+}
+#shakhawat .body .tab-content .active .heading .img img {
+  position: absolute;
+  bottom: 0;
+  left: 5%;
+  width: 85%;
+}
+#shakhawat .body .tab-content .active .body_bottom {
+  margin: 70px 0 0;
+}
+#shakhawat .body .tab-content .active .body_bottom p {
+  font-family: "Sevillana", cursive;
+  font-size: 20px;
+  font-weight: 400;
+  color: #636262;
+  text-transform: capitalize;
+  margin: 0;
+}
+#shakhawat .body .tab-content .active .body_bottom h3 {
+  text-transform: capitalize;
+  font-family: "Urbanist", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #55527C;
+  letter-spacing: 3px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 30px 20px 20px !important;
+  background-color: #DFDFE3;
+  border-radius: 10px 10px 0 0;
+  border-top: 3px solid #621D3C;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data:hover {
+  border-top: 3px solid #A5A6FF;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data:hover .fast_data::after {
+  background-color: #A5A6FF;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data {
+  width: 50%;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data::after {
+  content: "";
+  width: 3px;
+  height: 100%;
+  background: #621D3C;
+  position: absolute;
+  top: 0;
+  right: -10%;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background: #F4F4F8;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .icn i {
+  padding: 15px;
+  color: #E93B81;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .nam p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #55527C;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .name .nam p span {
+  display: block;
+  text-transform: capitalize;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .birth .icn i {
+  color: #6AB5B9;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data .fast_data .language .icn i {
+  color: #9d85d0;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data ul {
+  margin: auto 0 !important;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data ul li a {
+  text-decoration: none;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #55527C;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .body_bottom .personal_data ul li a:hover {
+  color: #A5A6FF;
+}
+
+#shakhawat .body .tab-content .active .about_txt {
+  padding: 70px 0;
+  display: flex;
+}
+#shakhawat .body .tab-content .active .about_txt .header_txt {
+  width: 50%;
+}
+#shakhawat .body .tab-content .active .about_txt .header_txt .srttlep {
+  margin: 0;
+  font-family: "Sevillana", cursive;
+  font-size: 15px;
+  font-weight: 400;
+  color: #636262;
+  text-transform: capitalize;
+}
+#shakhawat .body .tab-content .active .about_txt .header_txt h3 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #55527C;
+  text-transform: capitalize;
+  letter-spacing: 5px;
+}
+#shakhawat .body .tab-content .active .about_txt .header_txt h4 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #55527C;
+  overflow: hidden;
+  position: relative;
+  text-transform: capitalize;
+}
+#shakhawat .body .tab-content .active .about_txt .header_txt h4 .animate {
+  position: absolute;
+  top: 0;
+  left: 20%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  animation: scrolltitle 5s linear infinite alternate;
+}
+@keyframes scrolltitle {
+  from {
+    top: 110%;
+    left: 20%;
+  }
+  to {
+    top: -400%;
+    left: 20%;
+  }
+}
+#shakhawat .body .tab-content .active .about_txt .descript_txt {
+  width: 50%;
+}
+#shakhawat .body .tab-content .active .about_txt .descript_txt p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  text-align: justify;
+}
+#shakhawat .body .tab-content .active .about_txt .descript_txt p .nam {
+  color: #A5A6FF;
+}
+#shakhawat .body .tab-content .active .about_txt .descript_txt p .desc_txt_btm {
+  display: block;
+  margin-top: 30px;
+}
+#shakhawat .body .tab-content .active .about_txt .descript_txt p .experience {
+  font-size: 22px;
+  color: #A5A6FF;
+  font-weight: 500;
+}
+#shakhawat .body .tab-content .active .elements .element_box {
+  display: flex;
+  justify-content: space-between;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience {
+  width: 250px;
+  padding: 50px 15px;
+  background-color: #FFDBAC;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience::after {
+  content: "";
+  width: 200%;
+  height: 50%;
+  background-color: rgba(255, 255, 255, 0.3);
+  position: absolute;
+  top: 0;
+  left: -130%;
+  transform: rotate(135deg);
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience:hover::after {
+  left: 80%;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience h4 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: #636262;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience p {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #636262;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience:nth-child(2) {
+  background-color: #DFE3EE;
+}
+#shakhawat .body .tab-content .active .elements .element_box .experience:nth-child(3) {
+  background-color: #E4DCF1;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper {
+  width: 100%;
+  padding: 30px 15px;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem h4 {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Urbanist", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #55527C;
+  margin: 0;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem .skillbar {
+  position: relative;
+  background: #eee;
+  height: 10px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .skillitem .skillbar .skillbar-bar {
+  height: 100%;
+  width: 0%;
+  border-radius: 20px;
+  transition: 4s linear;
+  transition-property: width, background-color;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .html h4 {
+  color: #DD4B25;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .html .skillbar .skillbar-bar {
+  background-color: #DD4B25;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .css h4 {
+  color: #2862E9;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .css .skillbar .skillbar-bar {
+  background-color: #2862E9;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .sass h4 {
+  color: #C76494;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .sass .skillbar .skillbar-bar {
+  background-color: #C76494;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .javascript h4 {
+  color: #E8D44D;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .javascript .skillbar .skillbar-bar {
+  background-color: #E8D44D;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .jQuery h4 {
+  color: #0865A7;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .jQuery .skillbar .skillbar-bar {
+  background-color: #0865A7;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .bootstrap h4 {
+  color: #7010EF;
+}
+#shakhawat .body .tab-content .active .elements .skillbar-wrapper .bootstrap .skillbar .skillbar-bar {
+  background-color: #7010EF;
+}
+#shakhawat .body .tab-content .active .elements .client_slider {
+  width: 100%;
+  height: 100px;
+  border-radius: 15px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+#shakhawat .body .tab-content .active .elements .client_slider::before {
+  content: "";
+  height: 100px;
+  width: 200px;
+  background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  top: 0;
+}
+#shakhawat .body .tab-content .active .elements .client_slider::after {
+  content: "";
+  height: 100px;
+  width: 200px;
+  background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+  position: absolute;
+  z-index: 2;
+  right: 0;
+  top: 0;
+  transform: rotateZ(180deg);
+}
+#shakhawat .body .tab-content .active .elements .client_slider .slide-track {
+  animation: scroll 40s linear infinite;
+  display: flex;
+  width: 3500px;
+}
+#shakhawat .body .tab-content .active .elements .client_slider .slide-track .slide {
+  height: 100px;
+  width: 250px;
+  line-height: 100px;
+}
+#shakhawat .body .tab-content .active .elements .client_slider .slide-track .slide a img {
+  width: 70px;
+  height: 70px;
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-1750px);
+  }
+}
+
+#shakhawat .body .tab-content .services {
+  background-color: brown;
+}
+#shakhawat .body .tab-content .active .elements .work_box {
+  gap: 20px;
+}
+#shakhawat .body .tab-content .active .elements .work_box .work {
+  text-align: center;
+  margin-top: 20px;
+  width: 50%;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  position: relative;
+  z-index: 1;
+}
+#shakhawat .body .tab-content .active .elements .work_box .work::after {
+  content: "";
+  width: 100%;
+  height: 10%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #D4D8F4;
+  z-index: -1;
+  transition: 0.6s;
+}
+#shakhawat .body .tab-content .active .elements .work_box .work:hover::after {
+  height: 100%;
+}
+#shakhawat .body .tab-content .active .elements .work_box .work h4 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #55527C;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+  transition: 0.4s;
+  text-align: left;
+  padding: 20px 0 10px;
+  background-color: #e8e8ed;
+  border: 2px solid #636262;
+  border-bottom: 0;
+  border-radius: 10px 10px 0 0;
+}
+#shakhawat .body .tab-content .active .elements .work_box .work p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  text-transform: capitalize;
+  transition: 0.4s;
+  padding: 10px 20px 20px;
+}
+#shakhawat .body .tab-content .active .elements .price_box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box {
+  padding: 20px 30px;
+  background-color: #fff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box span {
+  font-family: "Karla", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: #636262;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box span i {
+  color: red;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box span a {
+  color: #636262;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box:hover {
+  background-color: #A5A6FF;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box:hover span {
+  color: #fff;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box:hover span i {
+  color: #fff;
+}
+#shakhawat .body .tab-content .active .elements .price_box .box:hover span a {
+  color: #fff;
+}
+
+#shakhawat .body .active .elements .portfolio_box {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+#shakhawat .body .active .elements .portfolio_box .port {
+  width: 30%;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+}
+#shakhawat .body .active .elements .portfolio_box .port img {
+  width: 100%;
+  height: 100%;
+  transition: 0.4s;
+}
+#shakhawat .body .active .elements .portfolio_box .port .port_txt {
+  text-align: center;
+  background-color: #e8e8ed;
+  padding: 10px 0;
+  border-top: 2px solid #55527C;
+  width: 100%;
+  position: absolute;
+  bottom: -50%;
+  left: 0%;
+  transition: 0.4s;
+}
+#shakhawat .body .active .elements .portfolio_box .port .port_txt h4 {
+  text-transform: uppercase;
+  margin: 0;
+}
+#shakhawat .body .active .elements .portfolio_box .port .port_txt h4 a {
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #A5A6FF;
+}
+#shakhawat .body .active .elements .portfolio_box .port .port_txt p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  text-transform: capitalize;
+}
+#shakhawat .body .active .elements .portfolio_box .port:hover img {
+  filter: contrast(30%);
+}
+#shakhawat .body .active .elements .portfolio_box .port:hover .port_txt {
+  bottom: 0;
+}
+#shakhawat .body .active .elements .statement_box p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  text-align: justify;
+}
+#shakhawat .body .active .elements .statement_box p span {
+  display: block;
+  margin-top: 40px;
+}
+
+#shakhawat .body .active .elements .blogs {
+  margin: 30px 0 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+#shakhawat .body .active .elements .blogs .blog_item {
+  width: 30%;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 200px;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img img {
+  width: 100%;
+  height: 100%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni {
+  position: absolute;
+  top: 0;
+  right: -15%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #e8e8ed;
+  padding: 0 5px;
+  transition: 0.4s;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item i {
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header {
+  display: block;
+  position: relative;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header h4 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #55527C;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header a {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-header .btn-closed {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 30px;
+  padding: 0;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body img {
+  padding-bottom: 30px;
+  box-shadow: none;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body h4 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #55527C;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body a {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  text-align: justify;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_img .blog_omni .omni_item .modal .modal-dialog .modal-content .modal-body p span {
+  display: block;
+  margin-top: 30px;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_txt {
+  background-color: #e8e8ed;
+  padding: 20px;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_txt h4 {
+  text-align: justify;
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000000;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_txt p {
+  font-family: "Karla", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #636262;
+  margin: 0;
+}
+#shakhawat .body .active .elements .blogs .blog_item .blog_txt p a {
+  color: #636262;
+}
+#shakhawat .body .active .elements .blogs .blog_item:hover .blog_img .blog_omni {
+  top: 0;
+  right: 0;
+}
+#shakhawat .body .active .elements .blogs .blog_item:hover .blog_img .blog_omni .omni_item i:hover {
+  color: #A5A6FF;
+}
+
+#shakhawat .body .tab-content .services {
+  background-color: brown;
+}
+#shakhawat .body .tab-content .active .contct_elements {
+  display: flex;
+  flex-direction: column;
+}
+#shakhawat .body .tab-content .active .contct_elements .main_txt p {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #636262;
+  width: 70%;
+}
+#shakhawat .body .tab-content .active .elements .contact_box {
+  display: flex;
+  background-color: #DFDFE3;
+  padding: 20px;
+  margin: 20px 0 0;
+  border-radius: 10px;
+  border-top: 3px solid #621D3C;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .contact_box:hover {
+  border-top: 3px solid #A5A6FF;
+}
+#shakhawat .body .tab-content .active .elements .contact_box:hover .txt::after {
+  background-color: #A5A6FF;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt {
+  width: 30%;
+  position: relative;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt::after {
+  content: "";
+  width: 2.5px;
+  height: 90%;
+  background-color: #621D3C;
+  position: absolute;
+  top: 50%;
+  left: 110%;
+  transform: translateY(-50%);
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address h4 {
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #55527C;
+  text-transform: uppercase;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address p {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #636262;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx {
+  margin: 60px 0 0;
+  padding: 10px;
+  width: 21%;
+  background-color: #ffffff;
+  transition: 1s;
+  overflow: hidden;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a {
+  text-decoration: none;
+  display: flex;
+  gap: 15px;
+  width: 300px;
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #636262;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a .icon {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 5px;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a .mail {
+  color: #A5A6FF;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a .call {
+  color: #F6D063;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx a .locat {
+  color: #008000;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx:hover {
+  width: 100%;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message {
+  width: 70%;
+  padding: 0 0 0 50px;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .form_head {
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #55527C;
+  text-transform: uppercase;
+  padding: 0 0 20px 0;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group {
+  width: 47%;
+  position: relative;
+  margin: 25px 0;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group input {
+  background: none;
+  color: #636262;
+  font-size: 14px;
+  padding: 5px;
+  display: block;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 2px solid #636262;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group input:focus {
+  outline: none;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group input:focus ~ label, #shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group input:valid ~ label {
+  top: -14px;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group input:focus ~ .bar:before {
+  width: 100%;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group label {
+  color: #636262;
+  font-size: 16px;
+  font-weight: normal;
+  position: absolute;
+  pointer-events: none;
+  left: 5px;
+  top: 10px;
+  transition: 300ms ease all;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group .bar {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .group .bar:before {
+  content: "";
+  height: 2px;
+  width: 0;
+  bottom: 0px;
+  position: absolute;
+  background: #A5A6FF;
+  transition: 300ms ease all;
+  left: 0%;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .group_liner .mail_group {
+  width: 100%;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form textarea {
+  width: 100%;
+  height: 150px;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: transparent;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button {
+  display: block;
+  text-align: end;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button {
+  text-transform: capitalize;
+  color: #55527C;
+  border: 1px solid #2d4695;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  font-family: "Sevillana", cursive;
+  font-size: 20px;
+  font-weight: 400;
+  color: #636262;
+  letter-spacing: 5px;
+  width: 200px;
+  padding: 5px 20px;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button:before {
+  content: "";
+  width: 0;
+  height: 0;
+  transform: rotate(360deg);
+  border-style: solid;
+  border-width: 0 0 0 0;
+  border-color: transparent transparent transparent #05164e;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button:after {
+  content: "";
+  width: 0;
+  height: 0;
+  transform: rotate(360deg);
+  border-style: solid;
+  border-width: 0 0 0 0;
+  border-color: transparent #05164e transparent transparent;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+  transition: 0.4s;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button:hover {
+  color: white;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button:hover:before {
+  border-width: 250px 0 0 250px;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button:hover:after {
+  border-width: 0 250px 250px 0;
+}
+#shakhawat .body .tab-content .active .elements .contact_box .message form .button button:active {
+  background: #092683;
+}/*# sourceMappingURL=style.css.map */
