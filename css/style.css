@@ -739,7 +739,7 @@ body #shakhawat .body .tab-content .active .fast_element {
   position: absolute;
   bottom: 0;
   left: 5%;
-  width: 85%;
+  width: 75%;
 }
 #shakhawat .body .tab-content .active .body_bottom {
   margin: 70px 0 0;
@@ -1424,7 +1424,7 @@ body #shakhawat .body .tab-content .active .fast_element {
 #shakhawat .body .tab-content .active .elements .contact_box .txt .address .contact_bxx {
   margin: 60px 0 0;
   padding: 10px;
-  width: 21%;
+  width: 13%;
   background-color: #ffffff;
   transition: 1s;
   overflow: hidden;

@@ -155,7 +155,7 @@
         width: 100%;
         position: absolute;
         left: 5%;
-        top: 4%;
+        top: -10%;
     }
     #shakhawat .body .tab-content .active .heading .txt .downl_cv {
         margin-top: 20%;
@@ -302,7 +302,7 @@
     }
     #shakhawat .body .tab-content .active .elements .client_slider .slide-track .slide {
         height: 50px;
-        width: 200px;
+        width: 120px;
         line-height: 50px;
     }
     #shakhawat .body .tab-content .active .elements .client_slider .slide-track .slide a img {
